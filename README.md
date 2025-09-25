@@ -12,8 +12,8 @@ The goal of this project is to assist farmers in making data-driven decisions by
 - Users enter **soil nutrients (N, P, K)**, **pH**, **temperature**, **humidity**, and **rainfall**.
 - The model predicts the **optimal crop** to grow under those conditions.
 - Deployed as:
-  - 🌐 A web application
-  - 📱 An Android mobile app
+  - 🌐 A web application 
+  - 📱 An Android mobile app (https://github.com/deepti-17/sowsmart-app)
 
 ---
 
